@@ -1,0 +1,7 @@
+Flask
+Flask-RESTful
+flask-openapi3
+flask-cors
+pydantic
+gunicorn
+requests
